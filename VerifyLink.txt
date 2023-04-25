@@ -1,0 +1,5 @@
+Crash Course on Python:
+https://www.coursera.org/account/accomplishments/verify/BV54FWKYP7QS
+
+Scientific Computing with Python:
+https://freecodecamp.org/certification/fcc0b56cd1f-5477-484d-b94d-f1d0968353b0/scientific-computing-with-python-v7q
